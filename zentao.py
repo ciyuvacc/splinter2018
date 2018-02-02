@@ -9,7 +9,7 @@ username = u"admin"
 passwd = u"5d436e123#@"
 
 	
-login_url = "http://59.151.121.91:8787/zentao/user-login.html"
+login_url = "http://192.168.1.1:8787/zentao/user-login.html"
 	
 driver=Browser()	
 def login():
